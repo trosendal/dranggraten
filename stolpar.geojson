@@ -3,9 +3,9 @@
 "name": "stolpar",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3006" } },
 "features": [
-{ "type": "Feature", "properties": { "type": "14" }, "geometry": { "type": "Point", "coordinates": [ 655645.209888591314666, 6623512.455782714299858 ] } },
-{ "type": "Feature", "properties": { "type": "8" }, "geometry": { "type": "Point", "coordinates": [ 655648.209016141714528, 6623512.528128662146628 ] } },
-{ "type": "Feature", "properties": { "type": "8" }, "geometry": { "type": "Point", "coordinates": [ 655651.20814369188156, 6623512.600474611856043 ] } },
+{ "type": "Feature", "properties": { "type": "14" }, "geometry": { "type": "Point", "coordinates": [ 655653.185843077138998, 6623512.648181330412626 ] } },
+{ "type": "Feature", "properties": { "type": "14" }, "geometry": { "type": "Point", "coordinates": [ 655645.335618806886487, 6623506.675279675982893 ] } },
+{ "type": "Feature", "properties": { "type": "8" }, "geometry": { "type": "Point", "coordinates": [ 655650.798343061120249, 6623510.831634146161377 ] } },
 { "type": "Feature", "properties": { "type": "8" }, "geometry": { "type": "Point", "coordinates": [ 655654.207271242281422, 6623512.672820559702814 ] } },
 { "type": "Feature", "properties": { "type": "8" }, "geometry": { "type": "Point", "coordinates": [ 655657.206398792332038, 6623512.745166509412229 ] } },
 { "type": "Feature", "properties": { "type": "8" }, "geometry": { "type": "Point", "coordinates": [ 655660.205526342848316, 6623512.817512458190322 ] } },
@@ -117,7 +117,7 @@
 { "type": "Feature", "properties": { "type": "8" }, "geometry": { "type": "Point", "coordinates": [ 655645.52548153558746, 6623499.448753395117819 ] } },
 { "type": "Feature", "properties": { "type": "8" }, "geometry": { "type": "Point", "coordinates": [ 655645.452713198610581, 6623502.447870724834502 ] } },
 { "type": "Feature", "properties": { "type": "8" }, "geometry": { "type": "Point", "coordinates": [ 655645.37994486244861, 6623505.446988056413829 ] } },
-{ "type": "Feature", "properties": { "type": "8" }, "geometry": { "type": "Point", "coordinates": [ 655645.307176523143426, 6623508.446105390787125 ] } },
-{ "type": "Feature", "properties": { "type": "8" }, "geometry": { "type": "Point", "coordinates": [ 655645.234408185468055, 6623511.44522272143513 ] } }
+{ "type": "Feature", "properties": { "type": "8" }, "geometry": { "type": "Point", "coordinates": [ 655648.410843045101501, 6623509.015086961910129 ] } },
+{ "type": "Feature", "properties": { "type": "8" }, "geometry": { "type": "Point", "coordinates": [ 655646.023343029082753, 6623507.19853977765888 ] } }
 ]
 }
